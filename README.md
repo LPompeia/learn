@@ -1,5 +1,5 @@
 # LEARN
-### resources for continuous learning in IT-related fields.
+### Resources for continuous learning in IT-related fields.
 This repo contains the following:
 - List of eLearning platforms @ https://github.com/martescaio/learn/blob/master/platforms.md
 - Course suggestions.
