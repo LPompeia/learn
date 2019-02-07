@@ -1,18 +1,36 @@
 # IT / Computing
 
+***Cloud***
+
+***Amazon Web Services***
+
+### AWS Training & Certification
+https://www.aws.training/LearningLibrary
+- **Content:** Courses / Media
+- **Certificate:** Available
+- **Fee:** Free
+
+### Qwiklabs + amazon-run
+https://amazon.qwiklabs.com/
+- **Content:** Hands-On
+- **Certificate:** Unavailable
+- **Fee:** Free / Pay Per Item
+
+---
+
 ***Code***
 
 ### Codecademy
 https://www.codecademy.com/learn
 - **Content:** Courses / Hands-On
-- **Subscription:** Free / Pay Per Course
 - **Certificate:** Not available
+- **Fee:** Free / Pay Per Item
 
 ### SoloLearn
 https://www.sololearn.com/
 - **Content:** Courses
-- **Subscription:** Free
 - **Certificate:** Available
+- **Fee:** Free
 
 ---
 
@@ -21,11 +39,11 @@ https://www.sololearn.com/
 ### Data Science Academy
 https://www.datascienceacademy.com.br/
 - **Content:** Courses
-- **Subscription:** Free / Pay Per Course
 - **Certificate:** Available
+- **Fee:** Free / Pay Per Item
 
 ### DataCamp
 https://www.datacamp.com/
 - **Content:** Courses / Hands-On
-- **Subscription:** Free / Subscription
 - **Certificate:** Available
+- **Fee:** Free / Subscription
