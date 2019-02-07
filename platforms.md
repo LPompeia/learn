@@ -65,12 +65,14 @@ https://developers.redhat.com/training/
 ### Codecademy
 https://www.codecademy.com/learn
 - **Content:** Courses / Labs
+- **Available Languages:** EN
 - **Certificate:** Not available
 - **Fee:** Free / Pay Per Item
 
 ### SoloLearn
 https://www.sololearn.com/
 - **Content:** Courses
+- **Available Languages:** EN
 - **Certificate:** Available
 - **Fee:** Free
 
@@ -81,6 +83,7 @@ https://www.sololearn.com/
 ### Data Science Academy
 https://www.datascienceacademy.com.br/
 - **Content:** Courses
+- **Available Languages:** PT
 - **Certificate:** Available
 - **Fee:** Free / Pay Per Item
 
