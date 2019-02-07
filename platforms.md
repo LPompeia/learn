@@ -1,3 +1,25 @@
+# All Kinds
+
+### IBM Cloud Garage
+https://www.ibm.com/cloud/garage/category/courses
+- **Content:** Courses / Demos / Tutorials / Resources / Webinars
+- **Certificate:** Badges / Unavailable
+- **Fee:** Free
+
+### Intel Software
+https://software.intel.com/en-us
+- **Content:** Courses / Labs / Resources
+- **Certificate:** Unknown
+- **Fee:** Free
+
+### Microsoft Virtual Academy
+https://mva.microsoft.com/
+- **Content:** Courses / Webinars
+- **Certificate:** Unknown
+- **Fee:** Free
+
+---
+
 # Cloud
 
 ***Amazon Web Services***
@@ -10,9 +32,31 @@ https://www.aws.training/LearningLibrary
 
 ### Qwiklabs + amazon-run
 https://amazon.qwiklabs.com/
-- **Content:** Hands-On
+- **Content:** Labs
 - **Certificate:** Unavailable
 - **Fee:** Free / Pay Per Item
+
+***Cloud Technologies***
+
+### Cloud Academy
+https://cloudacademy.com/library/
+- **Content:** Courses / Labs
+- **Certificate:** Unknown
+- **Fee:** Subscription
+
+### Linux Academy
+https://linuxacademy.com/
+- **Content:** Courses / Labs
+- **Certificate:** Available
+- **Fee:** Free / Subscription
+
+***Red Hat***
+
+### Red Hat Developer
+https://developers.redhat.com/training/
+- **Content:** Courses / Media / Resources
+- **Certificate:** Unknown
+- **Fee:** Free
 
 ---
 
@@ -20,7 +64,7 @@ https://amazon.qwiklabs.com/
 
 ### Codecademy
 https://www.codecademy.com/learn
-- **Content:** Courses / Hands-On
+- **Content:** Courses / Labs
 - **Certificate:** Not available
 - **Fee:** Free / Pay Per Item
 
@@ -42,6 +86,26 @@ https://www.datascienceacademy.com.br/
 
 ### DataCamp
 https://www.datacamp.com/
-- **Content:** Courses / Hands-On
+- **Content:** Courses / Labs
 - **Certificate:** Available
 - **Fee:** Free / Subscription
+
+---
+
+# Front-end
+
+### Origamid
+https://www.origamid.com/
+- **Content:** Courses
+- **Certificate:** Available
+- **Fee:** Subscription
+
+---
+
+# Open Source
+
+### Linux Foundation
+https://training.linuxfoundation.org/
+- **Content:** Courses
+- **Certificate:** Available
+- **Fee:** Pay Per Item
