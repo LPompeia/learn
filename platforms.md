@@ -1,6 +1,4 @@
-# IT / Computing
-
-***Cloud***
+# Cloud
 
 ***Amazon Web Services***
 
@@ -18,7 +16,7 @@ https://amazon.qwiklabs.com/
 
 ---
 
-***Code***
+# Code
 
 ### Codecademy
 https://www.codecademy.com/learn
@@ -34,7 +32,7 @@ https://www.sololearn.com/
 
 ---
 
-***Data***
+# Data
 
 ### Data Science Academy
 https://www.datascienceacademy.com.br/
